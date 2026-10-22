@@ -1,0 +1,51 @@
+veiculo_id,marca,modelo,ano,tipo
+V001,Honda,HR-V,2022,SUV
+V002,Honda,HR-V,2023,SUV
+V003,Honda,HR-V,2024,SUV
+V004,Hyundai,Prelude,2023,Coupe
+V005,Hyundai,Prelude,2024,Coupe
+V006,Volvo,EX30,2024,SUV eletrico
+V007,Volvo,EX30,2025,SUV eletrico
+V008,Volvo,XC60,2022,SUV
+V009,Volvo,XC60,2023,SUV
+V010,Audi,Q5,2022,SUV
+V011,Audi,Q5,2023,SUV
+V012,Audi,Q5 Sportback,2024,SUV
+V013,BMW,iX3,2023,SUV eletrico
+V014,BMW,iX3,2024,SUV eletrico
+V015,Hyundai,Creta,2022,SUV
+V016,Hyundai,Creta,2023,SUV
+V017,Hyundai,Creta,2024,SUV
+V018,Audi,Q3,2022,SUV
+V019,Audi,Q3,2023,SUV
+V020,BMW,X1,2022,SUV
+V021,BMW,X1,2023,SUV
+V022,BMW,X1,2024,SUV
+V023,BMW,X2,2022,SUV
+V024,BMW,X2,2023,SUV
+V025,BMW,320i,2021,Sedã
+V026,BMW,320i,2022,Sedã
+V027,BMW,320i,2023,Sedã
+V028,BMW,X6,2022,SUV
+V029,BMW,X6,2023,SUV
+V030,BMW,530 M Sport,2022,Sedã
+V031,BMW,530 M Sport,2023,Sedã
+V032,Renault,Kardian,2024,SUV
+V033,Renault,Kardian,2025,SUV
+V034,Renault,Kardian,2025,SUV
+V035,Honda,Civic G9,2014,Sedã
+V036,Honda,Civic G9,2015,Sedã
+V037,Honda,Civic G10,2017,Sedã
+V038,Honda,Civic G10,2018,Sedã
+V039,Honda,Civic G11,2022,Sedã
+V040,Honda,Civic G11,2023,Sedã
+V041,BYD,Seal,2024,Sedã eletrico
+V042,BYD,Seal,2025,Sedã eletrico
+V043,Volkswagen,Nivus Comfort,2023,SUV
+V044,Volkswagen,Nivus Comfort,2024,SUV
+V045,Volkswagen,Nivus Highline,2023,SUV
+V046,Volkswagen,Nivus Highline,2024,SUV
+V047,Mercedes-Benz,C180 Avantgarde,2021,Sedã
+V048,Mercedes-Benz,C180 Avantgarde,2022,Sedã
+V049,Honda,HR-V,2021,SUV
+V050,BMW,X1,2025,SUV
